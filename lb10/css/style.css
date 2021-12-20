@@ -1,0 +1,100 @@
+.first{
+    text-align: center;
+}
+
+.first__text{
+    border: 3px solid greenyellow;
+    padding: 10px;
+    letter-spacing: 3pt;
+}
+
+.second{
+    border-top: 1px solid blue;
+    border-left: 3px dashed green;
+}
+.heading__two{
+    font-family: 'Comfortaa', cursive;
+    text-shadow: 1px 1px 1px navy;
+}
+
+.thirst{
+    border-top: 1px solid blue;
+    border-left: 3px dashed green;
+}
+.heading__three{
+    text-shadow: 1px 1px 1px navy;
+    font-family: 'Comfortaa', cursive;
+}
+
+.heading__four{
+    border-top: 1px solid greenyellow;
+    border-right: 3px solid greenyellow;
+    text-align: right;
+}
+.four__text{
+    text-indent: 1.5em;
+    text-align: justify;
+}
+
+.heading__five{
+    border-radius: 10px;
+    border: 2px solid darkgreen;
+    text-align: center;
+    margin-right: 1000px;
+}
+.five__text{
+    text-indent: 1.5em;
+}
+
+.heading__six{
+    border-radius: 0 10px 10px 0;
+    border: 2px solid red;
+}
+
+.heading__seven{
+    font-style: oblique;
+    border: 2px solid blue;
+    border-radius: 10px 10px 0 0;
+    border-bottom: none;
+    text-align: center;
+}
+.seven__text{
+    text-align: center;
+}
+
+.heading__eight{  
+    border: 10px solid black;
+    padding: 15px;
+    border-image: url(./images/border.png) 33% repeat;
+    text-align: center;
+}
+.eight__text{
+    text-indent: 1.5em;
+}
+
+.heading__nine{
+    text-align: center;
+    border: 2px dashed darkgreen;
+    border-radius: 10px;
+    margin-right: 1000px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.heading__ten{
+    border: 2px solid purple;
+    border-radius: 10px 0 0 10px;
+    border-bottom: none;
+    border-top: none;
+    border-right: none;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.ten__text{
+    text-align: right;
+}
+
+.heading__eleventh{
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Press Start 2P', cursive;
+}
+
+
